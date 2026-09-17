@@ -2654,5 +2654,3 @@ setTab("Combat")
 setMenuVisible(true)
 
 Configs.autoLoad()
-
-print("[Cheats] Loaded OK — v13 EN")
